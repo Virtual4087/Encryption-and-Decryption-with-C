@@ -66,7 +66,7 @@ choose:
     }
     else
     {
-        printf("Batho nahona muji\n");
+        printf("\nChoose between 1 and 2\n");
         goto choose;
     }
 
