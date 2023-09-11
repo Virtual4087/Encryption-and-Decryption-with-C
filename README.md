@@ -1,2 +1,3 @@
-# Encryption-and-Decryption-with-C
-Encrypts and Decrypts your data
+# Overview
+
+**A basic c program that allows you to encrypt and decrypt your data with a key**
